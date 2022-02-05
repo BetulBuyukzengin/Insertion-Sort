@@ -6,7 +6,6 @@ Dizideki en küçük elemanı bul ve dizinin başındaki elemanla yerini değiş
 [2,27,16,22,18,6]<br>
 [2,6,16,22,18,27]<br>
 [2,6,16,18,22,27]<br>
-
 O(n^2) , 18 sayısı dizinin ortasında olduğu için time complexity si average casedir.<br>
 
 [7,3,5,8,2,9,4,15,6] dizisi için, <br>
